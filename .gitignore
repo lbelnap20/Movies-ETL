@@ -1,6 +1,8 @@
 movies_metadata.csv
 ratings.csv
 config.py
+wikiMovies_df.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
